@@ -27,13 +27,13 @@ Overall, these assignments have provided me with hands-on experience in using Py
 
 
 ### Major Project (go-through)
-i. Class 06 - Assignment
+i. Class 06 - Assignment (Teleco_Churn-EDA-Decision Tree Classifier)
 
-ii. Class 07 - Assignment
+ii. Class 07 - Assignment (melb_data-EDA-Decision Tree Regressor)
 
-iii. Class 08 - Assignment
+iii. Class 08 - Assignment (University_Rank-EDA Matplotlib)
 
-iv. Class 09 - Assignment
+iv. Class 09 - Assignment (Customer_Churn-EDA-Decision Tree Classifier)
 ### i. Class 06 - Assignment 
 
 EDA & fitting Decision Tree Model - The project I worked on involved using exploratory data analysis (EDA) and a decision tree model classifier to predict customer churn in a telecommunication company. The dataset used in this project was the Telco Customer Churn dataset, which contained information about customers' demographics, usage patterns, and account information.
